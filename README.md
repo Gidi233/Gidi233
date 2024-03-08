@@ -1,16 +1,23 @@
+
+
+
 ### Hi there 👋
 
-<!--
-**Gidi233/Gidi233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ ,os , go and Linux
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gidi233&show_icons=true&theme=gruvbox_light&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidi233&theme=solarized-light&layout=compact" >
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://stats.justsong.cn/api/leetcode?username=i3old-6oldbergqju&cn=true&">
+</a>
+
+  <div align="center">
+    <a href="https://leetcode.cn/u/intelligent-kapitsay3d/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
+  </div>
