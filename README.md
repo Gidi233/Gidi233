@@ -14,7 +14,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidi233&theme=solarized-light&layout=compact" >
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a >
   <img align="center" src="https://stats.justsong.cn/api/leetcode?username=i3old-6oldbergqju&cn=true&">
 </a>
 
