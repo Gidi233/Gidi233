@@ -17,7 +17,3 @@
 <a >
   <img align="center" src="https://stats.justsong.cn/api/leetcode?username=i3old-6oldbergqju&cn=true&">
 </a>
-
-  <div align="center">
-    <a href="https://leetcode.cn/u/intelligent-kapitsay3d/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
-  </div>
