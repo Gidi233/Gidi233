@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++ ,os , go and Linux
+- 🌱 I’m currently learning C++ ,os , go ,Cloud-Native and Linux
 - 🤔 I’m looking for help with ...
 
 
